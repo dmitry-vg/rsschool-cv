@@ -32,6 +32,9 @@ for (let i = 0; i < s.length; i++){
   return newList;
 }
 ```
+## Courses:
+* RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
+* JavaScript Manual on learnjavascript.ru (in progress)
 
 ## Languages
 * Belarusian - native speaker
